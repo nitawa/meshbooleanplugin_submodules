@@ -1,3 +1,6 @@
 [submodule "libigl/libigl"]
 	path = libigl/libigl
 	url = git@github.com:libigl/libigl.git
+[submodule "cgal/cgal"]
+	path = cgal/cgal
+	url = git@github.com:CGAL/cgal.git
