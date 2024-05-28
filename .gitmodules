@@ -4,3 +4,6 @@
 [submodule "cgal/cgal"]
 	path = cgal/cgal
 	url = git@github.com:CGAL/cgal.git
+[submodule "cork/cork"]
+	path = cork/cork
+	url = git@github.com:gilbo/cork.git
