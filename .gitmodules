@@ -7,3 +7,6 @@
 [submodule "cork/cork"]
 	path = cork/cork
 	url = git@github.com:gilbo/cork.git
+[submodule "irmb/irmb"]
+	path = irmb/irmb
+	url = git@github.com:gcherchi/InteractiveAndRobustMeshBooleans.git
