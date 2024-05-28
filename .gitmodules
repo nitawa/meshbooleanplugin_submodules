@@ -10,3 +10,6 @@
 [submodule "irmb/irmb"]
 	path = irmb/irmb
 	url = git@github.com:gcherchi/InteractiveAndRobustMeshBooleans.git
+[submodule "mcut/mcut"]
+	path = mcut/mcut
+	url = git@github.com:cutdigital/mcut.git
