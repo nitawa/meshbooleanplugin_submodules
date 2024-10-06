@@ -1,15 +1,15 @@
 [submodule "libigl/libigl"]
-	path = libigl/libigl
-	url = git@github.com:libigl/libigl.git
+        path = libigl/libigl
+        url = https://github.com/libigl/libigl.git
 [submodule "cgal/cgal"]
-	path = cgal/cgal
-	url = git@github.com:CGAL/cgal.git
+        path = cgal/cgal
+        url = https://github.com/CGAL/cgal.git
 [submodule "cork/cork"]
-	path = cork/cork
-	url = git@github.com:gilbo/cork.git
+        path = cork/cork
+        url = https://github.com/gilbo/cork.git
 [submodule "irmb/irmb"]
-	path = irmb/irmb
-	url = git@github.com:gcherchi/InteractiveAndRobustMeshBooleans.git
+        path = irmb/irmb
+        url = https://github.com/gcherchi/InteractiveAndRobustMeshBooleans.git
 [submodule "mcut/mcut"]
-	path = mcut/mcut
-	url = git@github.com:cutdigital/mcut.git
+        path = mcut/mcut
+        url = https://github.com/cutdigital/mcut.git
